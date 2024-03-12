@@ -12,5 +12,12 @@ export const data = [
         description: "El lado oscuro de la era tecnológica en la que se vive: la paranoia de ser vigilados como en un panóptico, los usos terroristas de las nuevas herramientas y su relación con la experiencia cotidiana.",
         categories: "",
         actors: [""]
+    },
+    {
+        name: "Suits",
+        image: "https://i.pinimg.com/originals/26/89/d5/2689d5bb64e79f5627c06c93ed93a876.jpg",
+        description: "El gran abogado corporativo de Manhattan, Harvey Specter y su equipo, Donna Paulsen, Louis Litt y Alex Williams, se lanzan a un juego por obtener el poder cuando un nuevo socio se une a la empresa. Con sus dos mejores colegas fuera y Jessica de regreso en Chicago, Specter y el equipo intentan adaptarse a una nueva situación sin ellos. El grupo enfrenta traiciones, relaciones fieras y secretos que finalmente salen a la luz. Viejas y nuevas rivalidades aparecen entre los miembros del equipo a medida que aprenden a lidiar con el recién llegado.",
+        categories: "",
+        actors: [""]
     }
 ]
