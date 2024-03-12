@@ -1,5 +1,7 @@
+import { data } from "./data.js";
+
 (() => {
-    const cardContainer = document.getElementById("card-movie-container");
+    const cardsContainer = document.getElementById("card-movie-container");
 
     const createCardItem = ({
         name,
@@ -15,4 +17,9 @@
         </div>
       </div>`
     }
+
+    data.forEach((movie) => {
+        const item = createCardItem(movie);
+        cardsContainer.innerHTML += item;
+    })
 })()
